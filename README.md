@@ -1,9 +1,8 @@
 # BitcoinPrediction
 
 ### Deep Recurrent Neural Networks for CryptoCurrency Prediction
-This repository presents various machine learning models utilized in the finance industry for predicting stock prices and cryptocurrencies. 
+This repository presents various machine learning models utilized in the finance industry for predicting cryptocurrencies. 
 
-- Conducting fundamental analysis of stock prices using Yahoo Finance
 - Employing Seaborn for data visualization
 - Utilizing ARIMA model to capture trends, seasonality, and forecast prices as a baseline
 - Implementing simpler machine learning models such as Random Forest and Regression
